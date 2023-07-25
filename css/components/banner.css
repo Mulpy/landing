@@ -1,0 +1,22 @@
+.banner {
+  color: white;
+  padding: 200px 0;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.container p {
+  font-size: 20px;
+  opacity: 0.8;
+}
+
+.btn-apply {
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}

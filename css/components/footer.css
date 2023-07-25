@@ -1,0 +1,21 @@
+footer {
+  background-color: black;
+  padding: 200px 0;
+  text-align: center;
+ }
+
+.links {
+  width: 900px;
+  margin: auto;
+  color: white;
+ }
+
+.links a {
+  color: green;
+  padding: 8px;
+  display: inline-block;
+}
+
+.links p {
+  display: block;
+}
